@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br><br>
-<h3> donload </h3>
+<h2> Download </h2>
 <a href="https://github.com/Monlam-AI/Monlam-App-Store-fix/releases/download/2.0/Chinese-Tibetan-Dictionary-V2-for-Windows.zip">Chinese-for-Windows-fix.zip</a>
 <br><br>
 
